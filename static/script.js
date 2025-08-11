@@ -1,8 +1,3 @@
-(() => {
-  try {
-    alert()
-    }
-  } catch (e) {
-  }
-})();
+alert()
+
 
